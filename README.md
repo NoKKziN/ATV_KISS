@@ -10,8 +10,6 @@ Refatorar um código básico de verificação de paridade utilizando o princípi
 
 **KISS** é um dos princípios fundamentais do desenvolvimento de software. Ele incentiva os programadores a evitarem complexidade desnecessária e focarem em soluções simples, eficazes e funcionais.
 
-> “Simplicidade é a sofisticação máxima.” – Leonardo da Vinci
-
 ## 🛠 Tecnologias
 
 - Java ☕
